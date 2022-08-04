@@ -1,1 +1,1 @@
-giiHub tests
+gitHub tests
